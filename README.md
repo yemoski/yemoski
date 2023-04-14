@@ -1,5 +1,5 @@
 
-# Yemisi 👋
+# Howdy 👋
 **`Digital CraftsMan`**
 
 I am a Software Developer currently based in Victoria, Canada. I provide clean code and pixel perfect design. I am dedicated to developing solutions to real life problems with logic. I also make Dashboards that are interactive with web animations. I love producing a responsive design that makes your website accessible to all users, regardless of their device and disability.
@@ -26,6 +26,11 @@ I'm glad you are here!
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=yemoski&show_icons=true&theme=gruvbox)
 
 [website]: https://yemisi-portfolio.herokuapp.com/
 [youtube]: https://www.instagram.com/saintcodes/
