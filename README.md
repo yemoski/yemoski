@@ -1,5 +1,9 @@
 ### Hi there 👋
+*Yemisi
+**`Digital CraftsMan`**
 
+I am a Software Developer currently based in Victoria, Canada. I provide clean code and pixel perfect design. I am dedicated to developing solutions to real life problems with logic. I also make Dashboards that are interactive with web animations. I love producing a responsive design that makes your website accessible to all users, regardless of their device and disability.
+I'm glad you are here!
 <!--
 **yemoski/yemoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
